@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<modules>
+	<Silk_Reloadcore>
+		<version>0.1.0</version>
+	</Silk_Reloadcore>
+</modules>
+<global>
+	<models>
+		<core>
+			<rewrite>
+				<locale>Silk_Reloadcore_Model_Locale</locale>
+			</rewrite>
+		</core>
+	</models>
+</global>
+<default>
+	<design>
+		<header translate="welcome" module="page">
+			<logo_src>images/logo.gif</logo_src>
+			<logo_alt>Magento</logo_alt>
+			<welcome>默认欢迎信息！</welcome>
+		</header>
+		<footer translate="copyright" module="page">
+			<copyright>&amp;copy; 2013 Magento Demo Store. All Rights Reserved.</copyright>
+		</footer>
+	</design>
+</default>
+<stores>  
+	<admin>  
+		<design>  
+			<theme>  
+				<default>silk</default>  
+			</theme>  
+		</design>  
+	</admin>  
+</stores>
+</config>

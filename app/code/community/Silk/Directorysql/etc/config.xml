@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Silk_Directorysql>
+      <version>0.5.1</version>
+    </Silk_Directorysql>
+  </modules>
+  <global>
+    <helpers>
+      <directorysql>
+        <class>Silk_Directorysql_Helper</class>
+      </directorysql>
+    </helpers>
+	<resources>
+	  <directorysql_setup>
+		<setup>
+		  <module>Silk_Directorysql</module>
+		</setup>
+		<connection>
+		  <use>core_setup</use>
+		</connection>
+	  </directorysql_setup>
+	  <directorysql_write>
+		<connection>
+		  <use>core_write</use>
+		</connection>
+	  </directorysql_write>
+	  <directorysql_read>
+		<connection>
+		  <use>core_read</use>
+		</connection>
+	  </directorysql_read>
+	</resources>
+  </global>
+</config> 

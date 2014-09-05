@@ -1,0 +1,95 @@
+
+<div style="width: 49%;height: 2.3em;font-size: 1.8em;text-align: right;color: greenyellow;margin-top: -2.9em;">Pair Mart平台，网购e路精彩
+</div>
+
+
+<div class=" nav-container container">
+    <ul id="nav">  
+               <li class="home "><a href="http://localhost/yajie_magento/index.php/cn/?___SID=U">主页</a>
+
+        </li>
+
+        <li class="level0 nav-1 level-top first parent">
+<a href="http://localhost/yajie_magento/index.php/cn/a-c-oea-e.html?___SID=U" class="level-top">
+<span>世界名表</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="http://localhost/yajie_magento/index.php/cn/a-c-oea-e/a-a-a-c.html?___SID=U">
+<span>梅花 Titoni</span>
+</a>
+</li><li class="level1 nav-1-2">
+<a href="http://localhost/yajie_magento/index.php/cn/a-c-oea-e/aeoe-as-a-c.html?___SID=U">
+<span>天梭 Tissot</span>
+</a>
+</li><li class="level1 nav-1-3">
+<a href="http://localhost/yajie_magento/index.php/cn/a-c-oea-e/e-c-ae-enicar.html?___SID=U">
+<span>英纳格 Enicar</span>
+</a>
+</li><li class="level1 nav-1-4">
+<a href="http://localhost/yajie_magento/index.php/cn/a-c-oea-e/a-ae-c-frederique-constant.html?___SID=U">
+<span>康斯登 Frederique Constant</span>
+</a>
+</li><li class="level1 nav-1-5 last">
+<a href="http://localhost/yajie_magento/index.php/cn/a-c-oea-e/ae-ae-c-swatch.html?___SID=U">
+<span>斯沃琪 Swatch</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-2 active level-top parent">
+<a href="http://localhost/yajie_magento/index.php/cn/a-a-c-a.html?___SID=U" class="level-top">
+<span>家居精品</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-2-1 active first">
+<a href="http://localhost/yajie_magento/index.php/cn/a-a-c-a/a-oec-a-zwilling.html?___SID=U">
+<span>双立人 Zwilling</span>
+</a>
+</li><li class="level1 nav-2-2">
+<a href="http://localhost/yajie_magento/index.php/cn/a-a-c-a/e-a-a-fissler.html?___SID=U">
+<span>菲仕乐 Fissler</span>
+</a>
+</li><li class="level1 nav-2-3">
+<a href="http://localhost/yajie_magento/index.php/cn/a-a-c-a/c-ae-victorinox.html?___SID=U">
+<span>维氏 Victorinox</span>
+</a>
+</li><li class="level1 nav-2-4">
+<a href="http://localhost/yajie_magento/index.php/cn/a-a-c-a/ae-c-a-zielonka.html?___SID=U">
+<span>洁灵卡 Zielonka</span>
+</a>
+</li><li class="level1 nav-2-5 last">
+<a href="http://localhost/yajie_magento/index.php/cn/a-a-c-a/a-oeae-sigg.html?___SID=U">
+<span>希格 SIGG</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-3 level-top parent">
+<a href="http://localhost/yajie_magento/index.php/cn/a-a-a-a.html?___SID=U" class="level-top">
+<span>健康保健</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-3-1 first">
+<a href="http://localhost/yajie_magento/index.php/cn/a-a-a-a/a-a-e-a-sunshine-health.html?___SID=U">
+<span>保健药品 Sunshine Health</span>
+</a>
+</li><li class="level1 nav-3-2 last">
+<a href="http://localhost/yajie_magento/index.php/cn/a-a-a-a/a-se-beurer.html?___SID=U">
+<span>博雅 beurer</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-4 level-top last parent">
+<a href="http://localhost/yajie_magento/index.php/cn/ae-ae-a-a.html?___SID=U" class="level-top">
+<span>旅游商品</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-4-1 first last">
+<a href="http://localhost/yajie_magento/index.php/cn/ae-ae-a-a/aeoe-as-e-c.html?___SID=U">
+<span>服务项目</span>
+</a>
+</li>
+</ul>
+</li><!--         <li class="level0 nav-5 level-top"><a class="level-top" href="http://www.europe2mall.com:3000/">留言社区</a></li> -->
+
+    </ul>
+</div>

@@ -1,0 +1,50 @@
+<div class="footer-container">
+    <div class="footer container">
+    <div class="footer-info row-fluid">
+<!-- 
+		<ul>
+<li><a title="test" href="http://112.124.25.155/magento/index.php/cn/test">About Us</a></li>
+<li><a href="http://localhost/yajie_magento/index.php/cn/customer-service?___SID=U">Customer Service</a></li>
+<li class="last privacy"><a href="http://localhost/yajie_magento/index.php/cn/privacy-policy-cookie-restriction-mode?___SID=U">Privacy Policy</a></li>
+</ul> -->
+		
+<!-- 		<div class="footer-information footer-social span3">
+						<div class="footer-subscribe">
+
+    <form action="http://localhost/yajie_magento/index.php/cn/newsletter/subscriber/new/?___SID=U" method="post" id="newsletter-validate-detail">
+        <div class="footer-content">
+        <div class="form-subscribe-header">订阅我们的新闻邮件</div>
+            <label for="newsletter">订阅我们的新闻邮件：</label>
+            <div class="input-box">
+               <input type="text" name="email" id="newsletter" title="订阅我们的新闻邮件" class="input-text required-entry validate-email" />
+            </div>
+            <div class="actions">
+                <button type="submit" title="订阅" class="button"><span><span>订阅</span></span></button>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+		</div>  -->
+	</div>			
+	
+       <div class="copyright row-fluid"> 
+       <div class="copyright-info span6"  style="text-align: center;margin-left: 23em;margin-top: 3em;">
+<!--        <p class="bugs">帮助我们保证Magento的健康 - <a href="http://www.magentocommerce.com/bug-tracking" onclick="this.target='_blank'"><strong>报告所有Bug</strong></a> （版本. 1.8.0.0-alpha1）</p> -->
+        <address style=" font-size: 1.4em;">
+<!--           &copy; 2013 YaJIe Store. All Rights Reserved.  <a class="hellothemes" href="#" title="Premium Magento Themes">Designed by <strong>Europe2mal</strong></a>  -->
+© 2013 Europe2mal Store. All Rights Reserved
+        </address>
+        </div>
+        
+        <div class="payment-options span6" style=" display: none;">
+ <img src="http://localhost/yajie_magento/skin/frontend/default/helloresponsive/images/payment.png" /> 
+        </div>
+        
+    </div>
+    </div>
+</div>

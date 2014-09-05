@@ -1,0 +1,56 @@
+.ic_container{
+    vertical-align:baseline;
+    margin:10px;
+    position:relative;
+}
+.overlay{
+    opacity:0.3;
+    position:absolute;
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+}
+.ic_caption{
+    position:absolute;      
+    overflow:hidden;
+    margin:0px;
+    padding:0 5px 5px;
+    left:5px;
+    bottom:5px!important;
+    cursor:default;
+	height:154!important;
+	width:200px!important;
+background: -moz-linear-gradient(top, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.3) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.3)), color-stop(100%,rgba(0,0,0,0.3))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%); /* IE10+ */
+background: linear-gradient(top, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4d000000', endColorstr='#4d000000',GradientType=0 ); /* IE6-9 */
+}
+.capslide_img_cont4 {
+    height: 146px !important;
+    position: relative;
+    width: 210px !important;
+}
+.ic_category{
+    text-transform:uppercase;
+    font-size:11px;
+    letter-spacing:3px;
+    padding:5px;
+    margin:0px;
+}
+.ic_caption h3{
+    padding:0px 5px 5px 5px;
+    margin:0px;
+    font-size:18px;
+}
+.ic_text{
+    padding:5px;
+    margin:0px;
+    text-align:justify;
+    font-size:11px;
+
+}

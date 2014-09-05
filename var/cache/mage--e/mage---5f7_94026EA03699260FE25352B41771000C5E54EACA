@@ -1,0 +1,105 @@
+
+ 
+ 
+
+ 
+
+<div class="block block-leftnav">
+<div class="block-title">
+<!--     <strong><span>Browse Categories</span></strong>  -->
+    <strong><span>全部商品分类</span></strong> 
+</div>
+<div class="block-content">
+		<ul id="left-nav">
+												
+										<li class="category " lang="4"> 
+						<a href="javascript:void(0)" >
+							世界名表						</a>
+						<span class="arrow"></span>					</li>
+										<li>
+						<ul class="subcategory_4 subcategory" style="display:none;">
+																															<li class="category " lang="5">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-c-oea-e/a-a-a-c.html?___SID=U" >
+										梅花 Titoni									</a>
+																	</li>
+																																							<li class="category " lang="6">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-c-oea-e/aeoe-as-a-c.html?___SID=U" >
+										天梭 Tissot									</a>
+																	</li>
+																																							<li class="category " lang="9">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-c-oea-e/e-c-ae-enicar.html?___SID=U" >
+										英纳格 Enicar									</a>
+																	</li>
+																																							<li class="category " lang="10">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-c-oea-e/a-ae-c-frederique-constant.html?___SID=U" >
+										康斯登 Frederique Constant									</a>
+																	</li>
+																																							<li class="category " lang="11">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-c-oea-e/ae-ae-c-swatch.html?___SID=U" >
+										斯沃琪 Swatch									</a>
+																	</li>
+																					</ul>
+										</li>
+																
+										<li class="category active" lang="12"> 
+						<a href="javascript:void(0)" >
+							家居精品						</a>
+						<span class="arrow"></span>					</li>
+										<li>
+						<ul class="subcategory_12 subcategory" style="display:block;">
+																															<li class="category active" lang="14">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-a-c-a/a-oec-a-zwilling.html?___SID=U" >
+										双立人 Zwilling									</a>
+																	</li>
+																																							<li class="category " lang="15">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-a-c-a/e-a-a-fissler.html?___SID=U" >
+										菲仕乐 Fissler									</a>
+																	</li>
+																																							<li class="category " lang="16">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-a-c-a/c-ae-victorinox.html?___SID=U" >
+										维氏 Victorinox									</a>
+																	</li>
+																																							<li class="category " lang="17">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-a-c-a/ae-c-a-zielonka.html?___SID=U" >
+										洁灵卡 Zielonka									</a>
+																	</li>
+																																							<li class="category " lang="18">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-a-c-a/a-oeae-sigg.html?___SID=U" >
+										希格 SIGG									</a>
+																	</li>
+																					</ul>
+										</li>
+																
+										<li class="category " lang="13"> 
+						<a href="javascript:void(0)" >
+							健康保健						</a>
+						<span class="arrow"></span>					</li>
+										<li>
+						<ul class="subcategory_13 subcategory" style="display:none;">
+																															<li class="category " lang="19">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-a-a-a/a-a-e-a-sunshine-health.html?___SID=U" >
+										保健药品 Sunshine Health									</a>
+																	</li>
+																																							<li class="category " lang="20">
+									<a href="http://localhost/yajie_magento/index.php/cn/a-a-a-a/a-se-beurer.html?___SID=U" >
+										博雅 beurer									</a>
+																	</li>
+																					</ul>
+										</li>
+																
+										<li class="category " lang="23"> 
+						<a href="javascript:void(0)" >
+							旅游商品						</a>
+						<span class="arrow"></span>					</li>
+										<li>
+						<ul class="subcategory_23 subcategory" style="display:none;">
+																															<li class="category " lang="24">
+									<a href="http://localhost/yajie_magento/index.php/cn/ae-ae-a-a/aeoe-as-e-c.html?___SID=U" >
+										服务项目									</a>
+																	</li>
+																					</ul>
+										</li>
+									</ul>
+</div>
+</div>
+ 

@@ -1,0 +1,46 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     base_default
+ * @copyright   Copyright (c) 2011 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+<?php if(count($this->getStores())>1): ?>
+
+
+<ul class="switcher language-switch">
+
+<li>
+<a class="switch"  style="background: url('http://127.0.0.1/demo/skin/frontend/default/hellonuevo/images/flags/default.png') no-repeat left center;" href="#"><?php //echo $this->htmlEscape($_lang->getName()) ?>English <span class="arrow"></span></a>	
+
+    <ul class="options">
+        <?php foreach ($this->getStores() as $_lang): ?>
+            <?php $_selected = ($_lang->getId() == $this->getCurrentStoreId()) ? 'active' : '' ?>
+           <li style="background: url('<?php echo $this->getSkinUrl('images/flags/'.$_lang->getCode().'.png') ?>') no-repeat center center;" class="<?php echo $_selected ?>"><a class="flag" href="<?php echo $_lang->getCurrentUrl() ?>" title="<?php echo $this->htmlEscape($_lang->getName()) ?>"><?php echo $this->htmlEscape($_lang->getName()) ?></a>
+            </li>
+        <?php endforeach;?>
+        </ul>
+</li>
+</ul>
+
+
+<?php endif; ?>

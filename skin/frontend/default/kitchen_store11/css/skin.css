@@ -1,0 +1,120 @@
+.jcarousel-skin-tango .jcarousel-direction-rtl { direction: rtl; }
+.jcarousel-skin-tango .jcarousel-container-horizontal { }
+.jcarousel-skin-tango .jcarousel-container-vertical { width:195px; height:384px; padding:0px; margin-bottom:10px; }
+.jcarousel-skin-tango .jcarousel-clip { overflow: hidden; }
+.jcarousel-skin-tango .jcarousel-clip-horizontal { }
+.jcarousel-skin-tango .jcarousel-clip-vertical { width:195px; height:384px; }
+.jcarousel-skin-tango {}
+.jcarousel-skin-tango .jcarousel-item-horizontal { margin-left: 0; margin-right:10px; }
+.products-scroller .product-name {
+    background:#aec347;
+    color: #FFFFFF;
+    font-size: 11px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 5px 0 10px;
+    text-align: center;
+    width: 220px !important;
+}
+.products-scroller .product-name a { font-size:13px; font-weight:normal; color:#fff; }
+.products-scroller .product-image {}
+.products-scroller .price-box { float: right; margin: 5px 10px 5px 0; }
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-item-horizontal { margin-left: 10px; margin-right: 0; }
+.jcarousel-skin-tango .jcarousel-item-vertical { margin-bottom: 10px; }
+.jcarousel-skin-tango .jcarousel-item-placeholder { background: #fff; color: #000; }
+/**
+
+ *  Horizontal Buttons
+
+ */
+
+.jcarousel-skin-tango .jcarousel-next-horizontal { position: absolute; top: 43px; right: 5px; width: 32px; height: 32px; cursor: pointer; background: transparent url(../images/next-horizontal.png) no-repeat 0 0; }
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-next-horizontal { left: 5px; right: auto; background-image: url(../images/prev-horizontal.png); }
+.jcarousel-skin-tango .jcarousel-next-horizontal:hover,  .jcarousel-skin-tango .jcarousel-next-horizontal:focus { background-position:-211px 0; }
+.jcarousel-skin-tango .jcarousel-next-horizontal:active { background-position:-211px 0px; }
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal,  .jcarousel-skin-tango .jcarousel-next-disabled-horizontal:hover,  .jcarousel-skin-tango .jcarousel-next-disabled-horizontal:focus,  .jcarousel-skin-tango .jcarousel-next-disabled-horizontal:active { cursor: default; background-position: -96px 0; }
+.jcarousel-skin-tango .jcarousel-prev-horizontal { position: absolute; top: 43px; left: 5px; width: 32px; height: 32px; cursor: pointer; background: transparent url(../images/prev-horizontal.png) no-repeat 0 0; }
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-prev-horizontal { left: auto; right: 5px; background-image: url(../images/next-horizontal.png); }
+.jcarousel-skin-tango .jcarousel-prev-horizontal:hover,  .jcarousel-skin-tango .jcarousel-prev-horizontal:focus { background-position:-181px 0; }
+.jcarousel-skin-tango .jcarousel-prev-horizontal:active { background-position:-181px 0;}
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal,  .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:hover,  .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:focus,  .jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:active { cursor: default; background-position:-0 -84px; }
+.jcarousel-skin-tango .jcarousel-next-vertical { background: url(../images/next-vertical.png) no-repeat scroll left bottom transparent; bottom: 2px; cursor: pointer; height: 19px; left: 80px; position: absolute; width: 32px; }
+.jcarousel-skin-tango .jcarousel-next-vertical:hover,  .jcarousel-skin-tango .jcarousel-next-vertical:focus { background-position: 0 2px; }
+.jcarousel-skin-tango .jcarousel-next-vertical:active { background-position: 0 -64px; }
+.jcarousel-skin-tango .jcarousel-next-disabled-vertical,  .jcarousel-skin-tango .jcarousel-next-disabled-vertical:hover,  .jcarousel-skin-tango .jcarousel-next-disabled-vertical:focus,  .jcarousel-skin-tango .jcarousel-next-disabled-vertical:active { cursor: default; background-position: 0 -96px; }
+.jcarousel-skin-tango .jcarousel-prev-vertical { background: url(../images/prev-vertical.png) no-repeat left bottom; cursor: pointer; height: 17px; left: 80px; position: absolute; top: 0; width: 32px; }
+.jcarousel-skin-tango .jcarousel-prev-vertical:hover,  .jcarousel-skin-tango .jcarousel-prev-vertical:focus { background-position: 0 0; }
+.jcarousel-skin-tango .jcarousel-prev-vertical:active { background-position: 0 -64px; }
+.jcarousel-skin-tango .jcarousel-prev-disabled-vertical,  .jcarousel-skin-tango .jcarousel-prev-disabled-vertical:hover,  .jcarousel-skin-tango .jcarousel-prev-disabled-vertical:focus,  .jcarousel-skin-tango .jcarousel-prev-disabled-vertical:active { cursor: default; background-position: 0 -18px; }
+/*new*/
+.products-scroller .actions { float: left; margin-top: 5px; }
+.jcarousel-skin-tango .jcarousel-prev-horizontal {
+    background: url("../images/common.png") no-repeat scroll -120px 0 transparent;
+    cursor: pointer;
+    height: 27px;
+    left: 1px;
+    position: absolute;
+    top: 65px;
+    width: 30px;
+}
+.jcarousel-skin-tango .jcarousel-next-horizontal {
+    background: url("../images/common.png") no-repeat scroll -150px 0 transparent;
+    cursor: pointer;
+    height: 27px;
+    position: absolute;
+    right: 3px;
+    top: 65px;
+    width: 30px;
+}
+.jcarousel-item {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #E4E4E4;
+    color: #FFFFFF;
+    float: left;
+    font-family: oswald;
+    font-size: 16px;
+    font-weight: normal;
+    height: 164px;
+    padding: 5px;
+    position: relative;
+    text-decoration: none;
+    text-transform: capitalize;
+    width: 220px;
+}
+.outer{
+    background: none repeat scroll 0 0 #FFFFFF;
+    float: left;
+	text-align:center;
+	width:210px;
+	height:146px;
+	overflow:hidden;
+}
+.inner_pan{
+	display:none;
+background: -moz-linear-gradient(top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.7) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.7)), color-stop(100%,rgba(0,0,0,0.7))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%); /* IE10+ */
+background: linear-gradient(top, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000', endColorstr='#b3000000',GradientType=0 ); /* IE6-9 */
+    border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+    float: left;
+    height: 154px;
+    padding: 5px;
+    width: 210px;
+	position:absolute;
+	left:0;
+	top:0;
+}
+.outer a:hover.products-scroller .inner_pan{display:block;}
+.special{margin-top:25px; float:left; width:920px;}
+.special h1{
+    color: #545454;
+    font-family:'News Cycle', Arial, Helvetica;
+    font-size: 18px;
+    font-weight: normal;
+    margin:0;
+}

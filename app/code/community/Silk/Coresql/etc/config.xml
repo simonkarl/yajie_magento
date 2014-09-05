@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Silk_Coresql>
+      <version>1.6.0.4</version>
+    </Silk_Coresql>
+  </modules>
+  <global>
+	<resources>
+	  <coresql_setup>
+		<setup>
+		  <module>Silk_Coresql</module>
+		</setup>
+		<connection>
+		  <use>core_setup</use>
+		</connection>
+	  </coresql_setup>
+	  <coresql_write>
+		<connection>
+		  <use>core_write</use>
+		</connection>
+	  </coresql_write>
+	  <coresql_read>
+		<connection>
+		  <use>core_read</use>
+		</connection>
+	  </coresql_read>
+	</resources>
+  </global>
+</config> 

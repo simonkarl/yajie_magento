@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+	<Mage_Cms>
+		<version>1.6.0.0.2</version>
+	</Mage_Cms>
+  </modules>
+</config> 

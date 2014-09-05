@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!--
+/** 
+ * 促销模块
+ * 
+ * @category   Yebihai 
+ * @package    Yebihai_Bestsellers
+ * @author     叶必海       http://www.yebihai.com/
+ */
+-->
+<config>
+    <modules>
+        <Yebihai_Bestsellers>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Catalog />
+            </depends>
+            <version>0.1.0</version>
+        </Yebihai_Bestsellers>
+    </modules>
+</config>
+

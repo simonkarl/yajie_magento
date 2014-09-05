@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+<modules>
+	<Silk_Coresql>
+		<active>true</active>
+		<codePool>community</codePool>
+	</Silk_Coresql>
+	<Silk_Cms>
+		<active>true</active>
+		<codePool>community</codePool>
+	</Silk_Cms>
+	<Silk_Reloadcore>
+		<active>true</active>
+		<codePool>community</codePool>
+	</Silk_Reloadcore>
+	<Silk_Directorysql>
+      <active>true</active>
+      <codePool>community</codePool>
+    </Silk_Directorysql>
+</modules>
+</config>
